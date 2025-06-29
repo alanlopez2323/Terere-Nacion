@@ -7,7 +7,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-b from-[#82CFF7] via-[#ffffff] to-[#58A55C] text-gray-800 font-sans">
       <header className="p-6 bg-[#A3603F] text-white shadow-lg">
         <h1 className="text-3xl font-bold tracking-wide">
-          Tereré Token Dashboard 🧉
+          Tereré Token Dashboard 🍃🧊🧉
         </h1>
         <p className="text-sm opacity-80">
           Cultura, frescura y Web3 con alma paraguaya 🇵🇾
